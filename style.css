@@ -1,0 +1,46 @@
+.Padding_10px{
+    Padding:10px;
+}
+.image_responsive{
+    width: 100%;
+}
+.Col_Show_card{
+padding-bottom: 15px;
+}
+
+.Col_Show_card h2{
+    text-transform: uppercase;
+    font-size: 29px;
+    color: #232323;
+    margin-bottom: 15px;
+}
+
+.Col_Show_card p{
+    font-size: 16px;
+    line-height: 1.35;
+    margin-bottom: 15px;
+}
+.Col_Show_card .image_responsive{
+    width: 80%;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.sub-title-border{
+margin: auto;
+border: 1px solid black;
+background-color:#232323;
+margin-top: 10px;
+height:10%;
+border-radius: 5px;
+width:fit-content;
+}
+
+
+.mytext{
+    margin: 10px;
+padding-top:0px;
+font-weight: 400;
+}
+
